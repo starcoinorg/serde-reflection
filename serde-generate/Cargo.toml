@@ -19,10 +19,10 @@ exclude = [
 heck = "0.3.1"
 include_dir = "0.6"
 maplit = "1.0.2"
-serde = { version = "1.0.116", features = ["derive"] }
-serde_bytes = "0.11.3"
-serde_yaml = "0.8"
-structopt = "0.3.12"
+serde = { version = "1.0.193", features = ["derive"] }
+serde_bytes = "0.11.5"
+serde_yaml = "0.8.17"
+structopt = "0.3.21"
 textwrap = "0.13.3"
 
 serde-reflection = { path = "../serde-reflection", version = "0.3.0" }
